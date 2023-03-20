@@ -31,7 +31,7 @@ const Nav = () => {
                     </ul>
 
                     <ul className=''>
-                        <li><RiShoppingBasketLine /><span >0</span></li>
+                        <li><RiShoppingBasketLine /><span className='span2'>0</span></li>
                         <li><BsPerson /></li>
                     </ul>
                 </div>

@@ -1,6 +1,14 @@
 .logo{
     width: 2.8em;
 }
+.span2{
+    font-size: 12px;
+    background-color: crimson;
+    border-radius: 50%;
+    padding: 0px 5px;
+    position: absolute;
+    margin-top: -0.3em;
+}
 .List_Link:hover{
     color: crimson;
 }
